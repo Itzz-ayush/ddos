@@ -1,3 +1,7 @@
+'''
+  Orignal code by someone else improve/edited by me
+'''
+
 import numpy as np
 import tensorflow as tf
 import json
